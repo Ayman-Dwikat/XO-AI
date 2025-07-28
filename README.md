@@ -17,4 +17,4 @@ This project is a responsive Tic Tac Toe game that allows players to compete aga
 - **HTML & CSS:** For structuring and styling the game interface.
 
 ### Live Demo
-- [Preview the game here](https://ayman-dwikat.github.io/TicTacToe-AI/)
+- [Preview the game here](https://aymandwikat.github.io/TicTacToe-AI/)
